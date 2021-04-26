@@ -1,3 +1,12 @@
+# You need to install following dependencies
+bootstrap": "^4.6.0",
+react-redux": "^7.2.4",
+redux": "^4.1.0",
+uuid": "^8.3.2",
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
