@@ -7,10 +7,28 @@
   pointer-events: none;
 }
 
+body {
+  
+  
+  background: linear-gradient(
+    to right,
+    #991414,
+    #90299e
+  ); 
+  color: #ffffffa6;
+  font-family: "Roboto", sans-serif;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.head{
+  color: white;
+  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .App-header {
